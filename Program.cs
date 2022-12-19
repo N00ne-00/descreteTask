@@ -38,8 +38,9 @@ namespace project_1
                     {
                         Console.WriteLine(input + " is a prime number"); // اطبع ان الرقم الذى دخل دا من وسط المجال اولي 
                     }
-//thank you :)
-
+                           
+                    //thank you :)
+                    // Mariam ramadan
                 }
             }
 
